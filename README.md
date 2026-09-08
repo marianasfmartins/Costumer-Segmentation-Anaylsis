@@ -13,7 +13,7 @@ The project is structured into three main Jupyter Notebooks and supporting Pytho
 
 ### 📓 Notebooks
 
-* **`NB1_DATAEXPLORATION.ipynb`**: Comprehensive Exploratory Data Analysis (EDA). Includes data cleaning, univariate/bivariate analysis, feature engineering and initial insights into customer behavior.
+* **`NB1_DATAEXPLORATION.ipynb`**: Comprehensive Exploratory Data Analysis (EDA). Includes data cleaning, univariate/bivariate analysis, feature engineering and initial insights into customer behavior. Warning: This notebook was removed from GitHub because its file size exceeds the 25 MB limit.
 * **`NB2_MODELSELECTION.ipynb`**: The experimental core. This notebook details the process of training and evaluating various clustering algorithms (K-Means, Hierarchical Clustering, MeanShift, DBSCAM and SOM).
 * **`NB3_FINALNOTEBOOK.ipynb`**: The final polished pipeline. It presents the final chosen models, deep dives into the profiling of the generated customer segments, and extracts actionable business insights using Association Rules for each specific segment.
 
